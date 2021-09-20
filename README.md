@@ -9,6 +9,6 @@ An automation python script to quickly gather and view information from the web 
  - Customization options to extract relevant useful pieces of information from the site.
 
 ### Requirements
- [Requirement guidelines for this project]("./requirements.txt")
+ [Requirement guidelines for this project]("requirements.txt")
  
 ### Running Locally

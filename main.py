@@ -36,3 +36,13 @@ def get_google_news_result(term, count):
         infos.append(info)
         agencies.append(agency)
     return titles, agencies links , infos
+
+
+if __name__ == '__main__':
+    titleName = input("Enter the news title keyword: ")
+    articleCount = int(input('Enter the number of article count: '))
+    titles, agencies , links , info = get_google_news_result(titleName, articleCount)
+    news = {'title': titles,'agency':agencies ,'links': links}
+    # store the recieved information as a dataframe
+    df = pd.DataFrame(news, columns=['title','agency', 'links'])
+    

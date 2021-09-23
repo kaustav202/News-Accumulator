@@ -37,12 +37,32 @@ def get_google_news_result(term, count):
         agencies.append(agency)
     return titles, agencies links , infos
 
+def sel_art(df):
+    df.index = df.index+1
+    print("\nhere are some of the articles :: ")
+    print(df[["title","agency"]])
+    print("\nDo you want to view any article ? ",end="")
+    choice = input("Y : yes  N: no    ")
+    if choice == 'N' or  choice == 'n':
+        restart_session()
+        return
+    elif choice == 'Y' or  choice =='y':
+        view_art(df)
+        return
+    else :
+        print("\n","please provide a valid input!!",sep ="")
+        sel_art(df)
+    return
+
+
 
 if __name__ == '__main__':
+  def get_inp():
     titleName = input("Enter the news title keyword: ")
     articleCount = int(input('Enter the number of article count: '))
     titles, agencies , links , info = get_google_news_result(titleName, articleCount)
     news = {'title': titles,'agency':agencies ,'links': links}
     # store the recieved information as a dataframe
     df = pd.DataFrame(news, columns=['title','agency', 'links'])
-    
+    sel_art(df)
+  get_inp()

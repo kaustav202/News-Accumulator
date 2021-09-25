@@ -26,3 +26,36 @@ Windows: app\Scripts\activate
 ```
 Install the required modules `pip install -r requirements.txt`\
 Go to the directory containing main.py and type command  `python main.py`
+
+### Usage And Output
+Here are some sample run of the program
+
+**Run a new keyword search and get a list of articles**
+
+
+![alt text](https://i.postimg.cc/Fsdx6LF3/gns1.png)
+
+**Select any article no to view it**
+
+![alt text](https://i.postimg.cc/Y9dx5Nmf/gns2.png)
+![alt text](https://i.postimg.cc/FH0VrXLK/gns3.png)
+
+**Menu to perform various actions**
+- **Press 2  to view another article**
+
+![alt text](https://i.postimg.cc/xjFRgRQ9/gns4.png)
+![alt text](https://i.postimg.cc/hGgbhZL1/gns5.png)
+
+- **Press 3  to search a different set of articles**
+
+![alt text](https://i.postimg.cc/HnjtdJwG/gns6.png)
+![alt text](https://i.postimg.cc/kX0yPgDZ/gns7.png)
+
+- **Press 1  to view additional information**
+
+![alt text](https://i.postimg.cc/yd1PppW8/gns8.png)
+![alt text](https://i.postimg.cc/xdy5RVfZ/gns9.png)
+![alt text](https://i.postimg.cc/5yGS0xgX/gns10.png)
+
+-   **Press 4  to Exit**
+![alt text](https://i.postimg.cc/W4PSg1vr/gns11.png)

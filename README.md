@@ -14,5 +14,15 @@ Then data is scraped from the user selected article website to get the contents 
  [Requirement guidelines for this project](requirements.txt)
  
 ### Running Locally
+**It is best to use a python virtual environment**
+
+Create a virtual environment in the project dirctory  env.
+```
+python -m venv app
+```
+Activate the virtual environment
+```
+Windows: app\Scripts\activate
+```
 Install the required modules `pip install -r requirements.txt`\
 Go to the directory containing main.py and type command  `python main.py`

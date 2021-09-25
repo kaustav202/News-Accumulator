@@ -14,5 +14,5 @@ Then data is scraped from the user selected article website to get the contents 
  [Requirement guidelines for this project](requirements.txt)
  
 ### Running Locally
-Install the required modules `pip install` requirements.txt
+Install the required modules `pip install -r requirements.txt`\
 Go to the directory containing main.py and type command  `python main.py`

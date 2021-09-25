@@ -54,8 +54,6 @@ Here are some sample run of the program
 - **Press 1  to view additional information**
 
 ![alt text](https://i.postimg.cc/yd1PppW8/gns8.png)
-![alt text](https://i.postimg.cc/xdy5RVfZ/gns9.png)
-![alt text](https://i.postimg.cc/5yGS0xgX/gns10.png)
 
 -   **Press 4  to Exit**
 ![alt text](https://i.postimg.cc/W4PSg1vr/gns11.png)

@@ -34,7 +34,7 @@ def get_google_news_result(term, count):
         links.append(link)
         infos.append(info)
         agencies.append(agency)
-    return titles, agencies links , infos
+    return titles, agencies , links , infos
 
 #Auxiliary function providing option start new search
 
@@ -115,6 +115,6 @@ if __name__ == '__main__':
     titles, agencies , links , info = get_google_news_result(titleName, articleCount)
     news = {'title': titles,'agency':agencies ,'links': links , 'info' : info } 
     # store the recieved information as a dataframe
-    df = pd.DataFrame(news, columns=['title','agency', 'links' , 'info])
+    df = pd.DataFrame(news, columns=['title','agency', 'links' , 'info' ])
     sel_art(df)
   get_inp()

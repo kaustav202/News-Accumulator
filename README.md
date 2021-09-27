@@ -10,6 +10,11 @@ Then data is scraped from the user selected article website to get the contents 
  - View the contents of any specified article(Page Contents).
  - Customization options to extract relevant useful pieces of information from the site.
 
+### Technologies Used
+- **Requests** for handling web server communicatons and sending get requests
+- **Beautiful Soup** for parsing the html of the website and derive useful contents as a dom object
+- **xml.dom.minidom** to parse the xml string and store it in a structured way as dom object.
+
 ### Requirements
  [Requirement guidelines for this project](requirements.txt)
  

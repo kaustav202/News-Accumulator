@@ -5,7 +5,7 @@ An automation python script to quickly gather and view information from the web 
 
 ### Functionality
 First data is scraped from google news to generate list of articles based on the search keyword and publishing agency in tabular manner.
-Then data is scraped from the user selected article website to get the contents from website of that article.
+Then data is scraped from the article selected by the user to get the contents from website of that article.
  - Generates a list of relevant articles by title and the respective address based on the given keyword.
  - View the contents of any specified article(Page Contents).
  - Customization options to extract relevant useful pieces of information from the site.

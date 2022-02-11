@@ -1,10 +1,10 @@
 # 📰 WebArticle-Viewer
 
-An automation python script to quickly gather and view latest happenings and news information from the web (google-news)
-in a summarized consise way.
+An automation python script to quickly gather and view latest happenings and news information from the web</br>
+in a summarized and consise way.
 
 ### Functionality
-First data is scraped from google news to generate list of articles based on the search keyword and publishing agency in tabular manner.
+First data is scraped from google news to generate list of articles based on the search keyword and publishing agency</br> in tabular manner.
 Then data is scraped from the article selected by the user to get the contents from website of that article.
  - Generates a list of relevant articles by title and the respective address based on the given keyword.
  - View the contents of any specified article(Page Contents).

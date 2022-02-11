@@ -1,4 +1,4 @@
-# 📰 google-NewsArticle-scrapper
+# 📰 WebsiteArticle-Viewer
 
 An automation python script to quickly gather and view information from the web (google-news)
 

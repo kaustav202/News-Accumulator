@@ -1,6 +1,6 @@
-# 📰 WebArticle-Viewer
+# 📰 News-Accumulator
 
-An automation python script to quickly gather and view latest happenings and news information from the web</br>
+A python automation script to quickly gather and view latest happenings and news information from the web</br>
 in a summarized and consise way.
 
 ### Functionality

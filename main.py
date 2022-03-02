@@ -1,5 +1,6 @@
 import requests
 from defusedxml.minidom import parseString
+# defusedxml removes vulnerabilities
 import pandas as pd
 from bs4 import BeautifulSoup
 import re

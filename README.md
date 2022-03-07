@@ -11,9 +11,10 @@ Then data is scraped from the article selected by the user to get the contents f
  - Customization options to extract relevant useful pieces of information from the site.
 
 ### Technologies Used
-- **Requests** for handling web server communicatons and sending get requests
-- **Beautiful Soup** for parsing the html of the website and derive useful contents as a dom object
+- **Requests** for handling web server communicatons and sending get requests.
+- **Beautiful Soup** for parsing the html of the website and derive useful contents as a dom object.
 - **xml.dom.minidom** to parse the xml string and store it in a structured way as dom object.
+- **news api** to collect latest news json stream.
 
 ### Requirements
  [Requirement guidelines for this project](requirements.txt)

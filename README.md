@@ -16,6 +16,14 @@ Then data is scraped from the article selected by the user to get the contents f
 - **xml.dom.minidom** to parse the xml string and store it in a structured way as dom object.
 - **news api** to collect latest news json stream.
 
+### Domains
+
+- **CLI-Tools**
+- **XML-dom**
+- **APIs**
+- **Web Scraping**
+- **Data Science**
+
 ### Requirements
  [Requirement guidelines for this project](requirements.txt)
  

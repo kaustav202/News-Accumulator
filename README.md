@@ -38,28 +38,32 @@ Here are some sample run of the program
 
 **Run a new keyword search and get a list of articles**
 
-
-![alt text](https://i.postimg.cc/Fsdx6LF3/gns1.png)
+<img src = "https://i.postimg.cc/Fsdx6LF3/gns1.png" style = "width: 55%;">
 
 **Select any article no to view it**
 
-![alt text](https://i.postimg.cc/Y9dx5Nmf/gns2.png)
-![alt text](https://i.postimg.cc/FH0VrXLK/gns3.png)
+<img src = "https://i.postimg.cc/Y9dx5Nmf/gns2.png" style = "width:49%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/FH0VrXLK/gns3.png" style= "width:50%;">
+
+</br>
+
 
 **Menu to perform various actions**
 - **Press 2  to view another article**
 
-![alt text](https://i.postimg.cc/xjFRgRQ9/gns4.png)
-![alt text](https://i.postimg.cc/hGgbhZL1/gns5.png)
+<img src = "https://i.postimg.cc/xjFRgRQ9/gns4.png" style = "width : 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/hGgbhZL1/gns5.png" style = "width : 38%;">
+
+
 
 - **Press 3  to search a different set of articles**
 
-![alt text](https://i.postimg.cc/HnjtdJwG/gns6.png)
-![alt text](https://i.postimg.cc/kX0yPgDZ/gns7.png)
+<img src = "https://i.postimg.cc/HnjtdJwG/gns6.png"  style = "width : 48%;" > &nbsp;&nbsp; <img src = "https://i.postimg.cc/kX0yPgDZ/gns7.png" style = "width : 48%;" >
+
 
 - **Press 1  to view additional information**
 
-![alt text](https://i.postimg.cc/yd1PppW8/gns8.png)
+<img src = "https://i.postimg.cc/yd1PppW8/gns8.png" style = "width: 48%;">
 
 -   **Press 4  to Exit**
-![alt text](https://i.postimg.cc/W4PSg1vr/gns11.png)
+
+<img src = "https://i.postimg.cc/W4PSg1vr/gns11.png" style = "width: 48%;">
+

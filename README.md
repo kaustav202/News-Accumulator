@@ -40,9 +40,8 @@ Windows: app\Scripts\activate
 
 `$pip install -r requirements.txt`
 
-</br>
 
-**Go to the directory containing main.py and type command**
+**Go to the project directory and type command**
 
 `$python main.py`
 

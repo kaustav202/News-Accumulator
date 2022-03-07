@@ -20,7 +20,10 @@ Then data is scraped from the article selected by the user to get the contents f
  [Requirement guidelines for this project](requirements.txt)
  
 ### Running Locally
-**It is best to use a python virtual environment**
+
+</br>
+
+**Using a new python virtual environment**
 
 Create a virtual environment in the project dirctory  env.
 ```
@@ -30,8 +33,21 @@ Activate the virtual environment
 ```
 Windows: app\Scripts\activate
 ```
-Install the required modules `pip install -r requirements.txt`\
-Go to the directory containing main.py and type command  `python main.py`
+
+</br>
+
+**Install the required modules**
+
+`$pip install -r requirements.txt`
+
+</br>
+
+**Go to the directory containing main.py and type command**
+
+`$python main.py`
+
+
+</br>
 
 ### Usage And Output
 Here are some sample run of the program

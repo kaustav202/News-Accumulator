@@ -1,3 +1,5 @@
+# This module handles the API call and parses the resulting xml document tree.
+
 import requests
 from defusedxml.minidom import parseString
 # defusedxml removes vulnerabilities

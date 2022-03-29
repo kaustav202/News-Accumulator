@@ -2,7 +2,12 @@ import requests
 from defusedxml.minidom import parseString
 # defusedxml removes vulnerabilities
 import pandas as pd
+import pyfiglet as pfg
+from termcolor import cprint
 from view import select_article 
+
+p = pfg.figlet_format("News Accumulator",font = 'slant')
+cprint(p,'blue',attrs = ['bold'])
 
 def get_google_news_result(term, count):
     # Parses the string obtained from get request as xml document object

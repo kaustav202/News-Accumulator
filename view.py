@@ -32,7 +32,7 @@ def menu(df,id):
         return 0
     else:
         print("\n\nPlese provide valid input!!")
-        menu(df,id)
+        return menu(df,id)
 
 
 #Function to parse contents from the selected website and display it

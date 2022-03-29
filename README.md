@@ -68,34 +68,24 @@ $python main.py
 ### Usage And Output
 Here are some sample run of the program
 
-**Run a new keyword search and get a list of articles**
+### Run a new keyword search and get a list of articles
 
-<img src = "https://i.postimg.cc/Fsdx6LF3/gns1.png" style = "width: 55%;">
+<img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width: 55%;">
 
-**Select any article no to view it**
+### <b>Select any article no to view it</b>
 
-<img src = "https://i.postimg.cc/Y9dx5Nmf/gns2.png" style = "width:49%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/FH0VrXLK/gns3.png" style= "width:50%;">
+<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:49%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:49%;">
+
+
+### Menu to perform various actions
 
 </br>
 
+- **[ 2 ] : view another article &nbsp;&nbsp; [ 3 ] : search another topic**
 
-**Menu to perform various actions**
-- **Press 2  to view another article**
-
-<img src = "https://i.postimg.cc/xjFRgRQ9/gns4.png" style = "width : 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/hGgbhZL1/gns5.png" style = "width : 38%;">
+&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://i.postimg.cc/26QMT3Ss/na4.png" style = "width : 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/HnjtdJwG/gns6.png"  style = "width : 46%;" > 
 
 
+- **[ 1 ] : additional info &nbsp;&nbsp; [ 4 ] : exit**
 
-- **Press 3  to search a different set of articles**
-
-<img src = "https://i.postimg.cc/HnjtdJwG/gns6.png"  style = "width : 48%;" > &nbsp;&nbsp; <img src = "https://i.postimg.cc/kX0yPgDZ/gns7.png" style = "width : 48%;" >
-
-
-- **Press 1  to view additional information**
-
-<img src = "https://i.postimg.cc/yd1PppW8/gns8.png" style = "width: 48%;">
-
--   **Press 4  to Exit**
-
-<img src = "https://i.postimg.cc/W4PSg1vr/gns11.png" style = "width: 48%;">
-
+&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://i.postimg.cc/yd1PppW8/gns8.png" style = "width: 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/W4PSg1vr/gns11.png" style = "width: 47%;">

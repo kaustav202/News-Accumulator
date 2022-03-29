@@ -1,13 +1,14 @@
 # 📰 News-Accumulator
 
 A python automation script to quickly gather and view latest happenings and news information from the web</br>
-in a summarized and consise way.
+in a summarised and concise way.
 
 ### Functionality
-First data is scraped from google news to generate list of articles based on the search keyword and publishing agency</br> in tabular manner.
-Then data is scraped from the article selected by the user to get the contents from website of that article.
- - Generates a list of relevant articles by title and the respective address based on the given keyword.
- - View the contents of any specified article(Page Contents).
+API calls to g-news is used to generate lists of news articles based on the search keyword and also extract various other information from it.Then data is scraped from the website of the article selected by the user itself, to get the contents.The data is cleaned and structured to provide a concise output. Also features a convinient menu based interface.
+
+ - Generates a list of relevant articles showing the title and the respective publication agency based on any user given keyword.
+ - Select and view the contents of any article(Page Contents).
+ - Interactive menu based interface that allows switching between articles or search a new topic.
  - Customization options to extract relevant useful pieces of information from the site.
 
 ### Technologies Used
@@ -44,14 +45,18 @@ Windows: app\Scripts\activate
 
 </br>
 
-**Install the required modules**
+**Install all the required packages**
 
-`$pip install -r requirements.txt`
+```
+$pip install -r requirements.txt
+```
 
 
-**Go to the project directory and type command**
+**Navigate to the project directory and type command**
 
-`$python main.py`
+```
+$python main.py
+```
 
 
 </br>

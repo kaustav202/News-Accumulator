@@ -2,7 +2,7 @@ import pandas as pd
 import pyfiglet as pfg
 from termcolor import cprint
 
-from view import select_article
+from interface import select_article
 from news_parser import get_google_news_result
 
 p = pfg.figlet_format("News Accumulator",font = 'slant')

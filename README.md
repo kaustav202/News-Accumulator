@@ -25,9 +25,13 @@ API calls to g-news is used to generate lists of news articles based on the sear
 - **Web Scraping**
 - **Data Science**
 
+</br>
+
 ### Requirements
  🔗[Requirement guidelines for this project](requirements.txt)
  
+</br>
+
 ### Running Locally
 
 </br>

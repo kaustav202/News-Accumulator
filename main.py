@@ -2,11 +2,7 @@ import requests
 from defusedxml.minidom import parseString
 # defusedxml removes vulnerabilities
 import pandas as pd
-
-
-
 from view import select_article 
-
 
 def get_google_news_result(term, count):
     # Parses the string obtained from get request as xml document object
@@ -38,7 +34,6 @@ def get_google_news_result(term, count):
         infos.append(info)
         agencies.append(agency)
     return titles, agencies , links , infos
-
 
 def get_inp():
     titleName = input("Enter the news title keyword: ")

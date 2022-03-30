@@ -72,7 +72,7 @@ Here are some sample run of the program
 
 <img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width: 55%;">
 
-### <b>Select any article no to view it</b>
+### <b>Select any article to view contents</b>
 
 <img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:49%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:49%;">
 

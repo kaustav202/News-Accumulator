@@ -70,7 +70,7 @@ Here are some sample run of the program
 
 ### Run a new keyword search and get a list of articles
 
-&nbsp;<img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width: 52%;">
+&nbsp;<img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width:49%;">
 
 ### <b>Select any article to view contents</b>
 

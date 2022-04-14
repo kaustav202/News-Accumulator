@@ -4,7 +4,7 @@ A python automation script to quickly gather and view latest happenings and news
 in a summarised and concise way.
 
 ### Functionality
-API calls to g-news is used to generate lists of news articles based on the search keyword and also extract various other information from it.Then data is scraped from the website of the article selected by the user itself, to get the contents.The data is cleaned and structured to provide a concise output. Also features a convinient menu based interface.
+API calls to g-news is used to generate lists of news articles based on the search keyword and also extract various other information from it. Then data is scraped from the website of the article selected by the user itself, to get the contents. The data is cleaned and structured to provide a concise output. Also features a convinient menu based interface.
 
  - Generates a list of relevant articles showing the title and the respective publication agency based on any user given keyword.
  - Select and view the contents of any article(Page Contents).

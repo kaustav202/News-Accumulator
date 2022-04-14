@@ -74,7 +74,9 @@ Here are some sample run of the program
 
 ### <b>Select any article to view contents</b>
 
-&nbsp;&nbsp;<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:47%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:47%;">
+&nbsp;&nbsp;<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:55%;">&nbsp;
+
+&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:53%;">
 
 
 ### Menu to perform various actions

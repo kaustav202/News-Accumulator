@@ -76,7 +76,7 @@ Here are some sample run of the program
 
 &nbsp;&nbsp;<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:55%;">&nbsp;
 
-&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:53%;">
+&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:55%;">
 
 
 ### Menu to perform various actions

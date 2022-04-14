@@ -70,11 +70,11 @@ Here are some sample run of the program
 
 ### Run a new keyword search and get a list of articles
 
-<img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width: 55%;">
+<img src = "https://i.postimg.cc/SsCdf8j4/na1.png" style = "width: 45%;">
 
 ### <b>Select any article to view contents</b>
 
-<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:49%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:49%;">
+&nbsp;&nbsp;<img src = "https://i.postimg.cc/59C71X5L/na2.png" style = "width:47%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/5y46PYbT/na3.png" style= "width:47%;">
 
 
 ### Menu to perform various actions
@@ -83,7 +83,7 @@ Here are some sample run of the program
 
 - **[ 2 ] : view another article &nbsp;&nbsp; [ 3 ] : search another topic**
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src = "https://i.postimg.cc/26QMT3Ss/na4.png" style = "width : 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/HnjtdJwG/gns6.png"  style = "width : 46%;" > 
+&nbsp;&nbsp;&nbsp;<img src = "https://i.postimg.cc/26QMT3Ss/na4.png" style = "width : 48%;">&nbsp;&nbsp;<img src = "https://i.postimg.cc/HnjtdJwG/gns6.png"  style = "width : 46%;" > 
 
 
 - **[ 1 ] : additional info &nbsp;&nbsp; [ 4 ] : exit**
